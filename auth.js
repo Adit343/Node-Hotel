@@ -23,7 +23,4 @@ passport.use(
   }),
 );
 
-
-
-passport.use(new LocalS)
 module.exports = passport;
